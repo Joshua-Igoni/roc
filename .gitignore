@@ -14,4 +14,4 @@ e2e/**/log.html
 e2e/**/report.html
 e2e/**/output.xml
 
-helm/charts/
+helm/charts/minio
